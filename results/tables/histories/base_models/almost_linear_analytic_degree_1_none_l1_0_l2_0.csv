@@ -1,0 +1,2 @@
+lambda2,lambda1,regularization,degree,dataset,method,loss,risk,l1,l2,grad_evals,epochs,time
+0.0,0.0,none,1,almost_linear,analytic,0.08116209806404359,0.08116209806404359,0.0,0.0,0.0,0.0,4.2400002712383866e-05

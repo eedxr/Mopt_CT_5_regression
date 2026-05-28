@@ -1,0 +1,4 @@
+lambda2,lambda1,regularization,degree,dataset,method,loss,risk,l1,l2,grad_evals,epochs,time
+0.0,0.0,none,2,almost_linear,gauss_newton,13.33867984582428,13.33867984582428,0.0,0.0,0.0,0.0,0.0
+0.0,0.0,none,2,almost_linear,gauss_newton,0.08089014096563198,0.08089014096563198,0.0,0.0,1.0,1.0,7.920000643935055e-05
+0.0,0.0,none,2,almost_linear,gauss_newton,0.08089014096563198,0.08089014096563198,0.0,0.0,2.0,2.0,0.0001275000104214996

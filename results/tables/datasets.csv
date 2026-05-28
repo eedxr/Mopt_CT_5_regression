@@ -1,0 +1,3 @@
+dataset,title,f_true,x_min,x_max,m,sigma,noise_variance,seed
+almost_linear,Almost linear dependence,f_true(x) = 2x - 1 + 0.1 sin(4x),-3.0,3.0,150,0.25,0.0625,202601
+nonlinear,Strongly nonlinear dependence,f_true(x) = 0.5x^3 - x + sin(3x) + 2 exp(-10(x - 1)^2),-2.0,2.0,150,0.3,0.09,202602
